@@ -10,4 +10,4 @@ One of the biggest problems I found with the site was that the Search Engine Opt
 In completing this challenge I learned a number of things. One of the things I learned is how important it is to make code a consise as possible. When I first looked at the style sheet there was a lot of repetition that made it very overwhelming to deal with. Once I consolidated the code it was easier to read and a follow. I also learned how important it is to make code easily accessible. It can be very difficult to navigate a page tht doesn't work properly and that can be very frustrating and difficult for a user to navigate through.  
 
 ## Screenshot Of My page
-![alt text](C:\Users\julis\Bootcamp\challenge-1\urban-octo-telegram\horiseon.png "Horiseon")
+![alt text](./Develop/assets/images/horiseon.png "Horiseon")

@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* This helps set up background box to the right */
 .benefits {
     margin-right: 20px;
     padding: 20px;
